@@ -1,0 +1,27 @@
+.mark-container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 50%;
+   margin: 30px auto;
+}
+.container1{
+    width:50%;
+    height: 500px;
+    background-color: rgb(237, 230, 230);
+}
+.container2{
+    margin: 0;
+    padding: 0;
+    width:50%;
+    height: 500px;
+    background-color: rgb(177, 171, 171);
+}
+input{
+    border: none;
+    outline: none;
+    background-color: rgb(237, 230, 230);
+    width:100%;
+    padding: 20px;
+}
+
